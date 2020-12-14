@@ -8,5 +8,8 @@
 4. To train the model run - `python trainmodel.py --epochs 100` (epochs is optional argument default epochs is 20.)
 5. To validate the model run - `python modelvalidation.py` 
 
+## Future work - 
+1. Add UNet model. 
+
 ## Connect with me - 
 LinkedIn - https://www.linkedin.com/in/kartik-mishra99/
